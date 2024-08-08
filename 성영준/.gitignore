@@ -1,0 +1,26 @@
+# Eclipse 설정 파일
+.settings/
+.classpath
+.project
+.factorypath
+
+# 빌드 디렉토리
+target/
+
+# IntelliJ 설정 파일
+.idea/
+*.iml
+*.iws
+out/
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.bak
+*.swp
+
+# OS별 파일
+.DS_Store
+Thumbs.db
